@@ -1,1 +1,4 @@
 Some change made to the text file
+Another change made to the file in order to test multiline commit messages
+A multiline commit message contains a subject(72 character limit) and a body
+Subject and body are separated by a single blank line.
